@@ -39,7 +39,7 @@ class Camera:
         pass
 
 
-# inheritance
+# inheritancee
 my_phone = Phone('iphone', 120000, 'silver', 'china', True)
 # my_phone.phone_call()
 print(my_phone.brand)
