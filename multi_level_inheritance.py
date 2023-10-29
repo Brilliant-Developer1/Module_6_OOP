@@ -40,5 +40,5 @@ class ACBus(Bus):
         return super().__repr__()
 
 
-green_line = ACBus('green', 5000000, 22, 16)
+green_line = ACBus('green ', 5000000, 22, 16)
 print(green_line)
