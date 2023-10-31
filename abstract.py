@@ -22,7 +22,7 @@ class Monkey(Animal):
         print('Hey na nana, I am eating banana')
 
     def move(self):
-        print('Hanging on the branches')
+        print('Hanging on the branches ')
 
 
 layka = Monkey('lucky')
